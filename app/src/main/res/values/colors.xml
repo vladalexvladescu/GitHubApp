@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>#3F51B
+    <color name="colorPrimary">#FFEA7E3F</color>
+    <color name="colorPrimaryDark">#ea7e3f</color>
+    <color name="colorAccent">#f5f3f3</color>
+    <color name="gray_light_col">#89f5e3d6</color>
+    <color name="text_gray_color">#594444</color>
+    <color name="recording_view_border_start">#ea4f3f</color>
+    <color name="white">#ffffff</color>
+    <color name="yellow">#f9cb42</color>
+</resources>

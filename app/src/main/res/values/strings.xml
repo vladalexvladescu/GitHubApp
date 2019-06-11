@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GitHubApp</string>
+    <string name="search_hint">Search repositories</string>
+
+    <string name="search_for_repositories">Enter a name or owner of repository</string>
+    <string-array name="languages_list">
+        <item>All</item>
+        <item>JavaScript</item>
+        <item>Java</item>
+        <item>Python</item>
+        <item>HTML</item>
+        <item>C++</item>
+        <item>C#</item>
+        <item>CSS</item>
+        <item>TypeScript</item>
+        <item>Ruby</item>
+
+    </string-array>
+</resources>
